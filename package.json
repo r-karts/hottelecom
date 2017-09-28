@@ -1,0 +1,22 @@
+{
+  "name": "hottelecom",
+  "version": "1.0.0",
+  "description": "hottelecom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-karts/hottelecom.git"
+  },
+  "author": "r-karts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r-karts/hottelecom/issues"
+  },
+  "homepage": "https://github.com/r-karts/hottelecom#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
